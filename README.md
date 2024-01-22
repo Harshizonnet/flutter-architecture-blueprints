@@ -5,25 +5,7 @@
   <img src="https://github.com/wasabeef/art/raw/master/flutter-architecture-blueprints/cover.png" />
 </p>
 
-<p align="center">
-  <a href="https://app.bitrise.io/app/bc96b48850888851">
-    <img src="https://app.bitrise.io/app/bc96b48850888851/status.svg?token=kpOAmHRna6NiMkHYsosrlA">
-  </a>
-  <a href="https://codemagic.io/apps/5f2fd2f0cfa9364ecb48c64e/5f2fd2f0cfa9364ecb48c64d/latest_build">
-    <img src="https://api.codemagic.io/apps/5f2fd2f0cfa9364ecb48c64e/5f2fd2f0cfa9364ecb48c64d/status_badge.svg">
-  </a>
-  <a href="https://github.com/wasabeef/flutter-architecture-blueprints/actions?query=workflow%3A%22Flutter+CI%22">
-    <img src="https://github.com/wasabeef/flutter-architecture-blueprints/workflows/Flutter%20CI/badge.svg?branch=master" />
-  </a>
-  <a href="https://codecov.io/gh/wasabeef/flutter-architecture-blueprints">
-    <img src="https://codecov.io/gh/wasabeef/flutter-architecture-blueprints/branch/main/graph/badge.svg?token=9NCYY33KNG" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://twitter.com/wasabeef_jp">
-    <img src="https://img.shields.io/twitter/follow/wasabeef_jp?label=%40wasabeef_jp&logoColor=000000&style=social" />
-  </a>
-</p>
+
 
 Flutter Architecture Blueprints is a project that introduces MVVM architecture and project structure approaches to developing Flutter apps.
 
