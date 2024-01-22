@@ -11,8 +11,8 @@ Flutter Architecture Blueprints is a project that introduces MVVM architecture a
 ## Installation
 
 - [asdf](https://github.com/asdf-vm/asdf)
-  - Dart 2.14.4
-  - Flutter 2.5.3
+  - Dart 3.2.5
+  - Flutter 3.3.9
 - [npm (for git hooks)](https://treehouse.github.io/installation-guides/mac/node-mac.html)
 
 ## Environment
