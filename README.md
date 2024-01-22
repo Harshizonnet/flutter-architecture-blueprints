@@ -1,6 +1,6 @@
-# Flutter Architecture Blueprints
+# Mg_connect_frontend Architecture
 
-Flutter Architecture Blueprints is a project that introduces MVVM architecture and project structure approaches to developing Flutter apps.
+Mg-connect-frontend Architecture is a project that introduces MVVM architecture and project structure approaches to developing Flutter apps.
 
 ## Documentation
 
