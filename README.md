@@ -134,7 +134,6 @@ $ make build-runner
 
 ### Make .apk and .ipa file
 
-<img height="540px" src="https://github.com/wasabeef/art/raw/master/flutter-architecture-blueprints/running-app.gif" align="left" />
 
 Android
 ```shell script
@@ -153,10 +152,6 @@ $ make build-ios-prd
 $ make run-dev
 $ make run-prd
 ```
-## Special Thanks.
 
-- [News API](https://newsapi.org/)
 
-**Contributors**
-- [lcdsmao](https://github.com/lcdsmao)
 
